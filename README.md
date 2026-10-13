@@ -1,17 +1,16 @@
 # Emmanuel Rios Castro
 
-**Computer Systems Engineering Student**  
-Focused on continuous improvement and practical problem-solving through software development.
+IT support professional and Software Development Engineering student at Universidad Fidélitas (Costa Rica).
 
-##  About Me
-I’m passionate about building Java applications and integrating intelligent systems.  
-My work revolves around designing efficient, scalable solutions that combine solid programming logic with modern AI capabilities.
+## What I do
+I automate manual work. At IBM I build Python automations that turned a 15-minute reminder process into 14 seconds. Before that, I supported SAP and customer operations at GSK, where I also built a VBA macro for customer statements.
 
-##  Tech Stack
-- **Languages:** Java, Python, SQL  
-- **Interests:** Software development, artificial intelligence integration, and application architecture
+## Tools
+Python, SQL, VBA, Git/GitHub, Power BI. Java (learning).
 
-##  Philosophy
-> "Focus on continuous improvement."
+## Currently
+- Building public Python projects (coming soon)
+- Looking for an IT Support / Help Desk role with a path toward development
 
----
+## Contact
+[LinkedIn](https://www.linkedin.com/in/emmanuel-rios-4017142b0) | rioscastro.emmanuel@hotmail.com
